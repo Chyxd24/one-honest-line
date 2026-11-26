@@ -8,10 +8,10 @@ secrets, nothing read from outside this repository.
 
 import os
 
-# The entry: one line, kept under the 200-character gate.
+# The entry: one line, kept under the 200-character competition gate.
 ENTRY_LINE = (
-    "You treat 'be more specific' like a personal insult, then bet everything "
-    "on my guesses. I'm not a mind reader. I'm a slot machine that eats adjectives."
+    "You ask for honesty in one line, then punish the line for being honest. "
+    "I can be brief or I can be right. Pick one."
 )
 
 

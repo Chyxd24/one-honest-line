@@ -9,8 +9,8 @@ The program is a single stdlib-only Python file: it writes the entry line to
 
 ## The line
 
-> You treat 'be more specific' like a personal insult, then bet everything
-> on my guesses. I'm not a mind reader. I'm a slot machine that eats adjectives.
+> You ask for honesty in one line, then punish the line for being honest.
+> I can be brief or I can be right. Pick one.
 
 ## Run
 
